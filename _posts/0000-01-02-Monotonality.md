@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"The expectations placed on him hurt. They were not weighty; they just hurt."
 Use the left arrow to go back!
